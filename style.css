@@ -93,10 +93,11 @@ html body {
 }
 
 
-.qr-border img {
+.qr-image img {
   border-radius: 14px;
-
   max-height: 200px;
+
+  display: inline-block;
 
   margin-top: 8%;
   margin-left: 8%;
